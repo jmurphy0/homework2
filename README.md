@@ -1,5 +1,9 @@
 # homework2
-homework
+homework2:
+
+https://jmurphy0.github.io/homework2/
+https://github.com/jmurphy0/homework2.git
+
 ![alt text](assets/aboutmeLG.png)
 ![alt text](assets/aboutmeSM.png)
 ![alt text](assets/contactLG.png)
