@@ -1,0 +1,13 @@
+/*styling the background image*/
+.body{
+    background-image: url(https://wallpaperaccess.com/full/532686.jpg);
+    /* background-image: url(Assets/bgbg.jpg) alt='blackandyellow'; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.9;
+    }
+/* styling the text within each section  */
+.text{
+    color: white
+}
