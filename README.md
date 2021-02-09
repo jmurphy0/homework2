@@ -6,7 +6,7 @@ https://github.com/jmurphy0/homework2.git
 
 ![alt text](assets/imgs/hmwk7aboutmePIC.png)
 ![alt text](assets/imgs/hmwk7portfolioPIC.png)
-![alt text](assets/imgs/hmwk7aboutmeSM.png)
-![alt text](assets/imgs/hmwk7portfolioSM.png)
+![alt text](assets/imgs/hmwk7aboutmeSm.png)
+![alt text](assets/imgs/hmwk7portfolioSm.png)
 ![alt text](assets/contactSM.png)
 
